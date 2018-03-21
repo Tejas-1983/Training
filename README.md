@@ -1,2 +1,2 @@
-# Training - A classis project for the beginners
+# Training - First Training Project
 Fresco Training
