@@ -1,2 +1,2 @@
-# Training - First Training Project repeat
+# Training - First Training Project
 Fresco Training
