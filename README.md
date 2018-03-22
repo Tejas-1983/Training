@@ -1,2 +1,2 @@
-# Training - First Training Project for Checking Unauth Mpde
+# Training - Training Project for checking notifications over private channel
 Fresco Training
